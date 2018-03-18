@@ -14,7 +14,7 @@ const store = configureStore();
 
 
 
-
+console.log("hello world");
 
 
 //this state ment will provide store to all components so that we can use them in each
